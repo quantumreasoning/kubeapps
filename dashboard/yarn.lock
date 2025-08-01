@@ -1244,6 +1244,11 @@
   resolved "https://registry.yarnpkg.com/@bufbuild/protobuf/-/protobuf-1.10.0.tgz#1a67ac889c2d464a3492b3e54c38f80517963b16"
   integrity sha512-QDdVFLoN93Zjg36NoQPZfsVH9tZew7wKDKyV5qRdj8ntT4wQCOradQjRaTdwMhWUYsgKsvCINKKm87FdEk96Ag==
 
+"@bufbuild/protobuf@^2.6.2":
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/@bufbuild/protobuf/-/protobuf-2.6.2.tgz#2a345fce198f8858c7bc807ed7f0813d163344eb"
+  integrity sha512-vLu7SRY84CV/Dd+NUdgtidn2hS5hSMUC1vDBY0VcviTdgRYkU43vIz3vIFbmx14cX1r+mM7WjzE5Fl1fGEM0RQ==
+
 "@bufbuild/protoc-gen-es@^1.10.0":
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/@bufbuild/protoc-gen-es/-/protoc-gen-es-1.10.0.tgz#8771794259b6b78554458b85f7149df155ebe21b"
